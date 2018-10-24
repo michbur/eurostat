@@ -4,7 +4,7 @@ output:
     keep_md: yes
 ---
 
-
+source("https://install-github.me/michbur/eurostat")
 
 
 <br>
