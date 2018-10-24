@@ -29,7 +29,6 @@ Imports:
     jsonlite,
     RColorBrewer,
     readr,    
-    sf,            
     sp,    
     stringi,
     stringr,
